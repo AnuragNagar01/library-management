@@ -1,15 +1,4 @@
 
-# sum = 0
-#
-# while True:
-#     userInput = input("Enter The price of The Item: \n")
-#     if (userInput!='q'):
-#         sum = sum + int(userInput)
-#         print(f"Your Item Total Price : {sum}\n")
-#     else:
-#         print(f"Total Price Of Your Item : {sum}. Thanks For Shopping With Us")
-#         break
-
 class Library():
     def __init__(self, list, name):
         self.booklist = list
