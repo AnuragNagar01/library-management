@@ -1,1 +1,1 @@
-this is a library books amangement system..
+this is a library books mangement system..
